@@ -1,10 +1,10 @@
 # Create a form for writing a simple data and send them to channel with Telegram Bot in Nuxt 3
 
-Make sure to set your env including : CHAT_ID, TELEGRAM_TOKEN_BOT
+Make sure to set your env including : **CHAT_ID**, **TELEGRAM_TOKEN_BOT**
 
-CHAT_ID=####
+`CHAT_ID=####`\
+`TELEGRAM_TOKEN_BOT=####`
 
-TELEGRAM_TOKEN_BOT=####
 ![Untitled](https://github.com/mmg-workmail/form-with-telegram-bot/assets/112702172/e7cb91b5-0de5-4f8b-9a10-3a56e0b51c78)
 
 ## Setup
